@@ -1,0 +1,22 @@
+.Bienvenidodiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding:20px;
+  
+    margin-left: 35%;
+    border-radius:8px;
+    background-color: rgb(242, 231, 198);
+    border: 4px solid rgb(191, 177, 137);
+    font-weight: bold;
+    font-family: Helvetica;
+    border-style: outset;
+    width: 30%;
+}
+body{
+    background-color: rgb(253, 244, 218);
+}
+.divimg{
+    margin-top: 100px;
+}
